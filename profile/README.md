@@ -4,7 +4,7 @@ Australian software company based in Melbourne. We build enterprise software, pr
 
 ## Main Project
 
-**Freight Reserve** - Warehouse booking and yard management platform. Handles timeslot scheduling, automated payments, and real-time analytics. API-first architecture.
+**[Freight Reserve](https://www.freightreserve.com/)** - Warehouse booking and yard management platform. Handles timeslot scheduling, automated payments, and real-time analytics. API-first architecture.
 
 ## What We Build
 
